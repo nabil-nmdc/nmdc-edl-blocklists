@@ -8,3 +8,5 @@ nmdc.group
 *.nmdc.group
 enablebetaindicator.dev
 *.enablebetaindicator.dev
+npcc.dev
+*.npcc.dev
