@@ -10,3 +10,5 @@ enablebetaindicator.dev
 *.enablebetaindicator.dev
 npcc.dev
 *.npcc.dev
+*.tradingview.com
+tradingview.com
