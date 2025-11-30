@@ -10,3 +10,15 @@ enablebetaindicator.dev
 *.enablebetaindicator.dev
 npcc.dev
 *.npcc.dev
+api.chatboxn.com
+chatboxn.com
+data.sportflowlivez.com
+emqx.api-score.com
+fb.sportliveapiz.com
+xlz.livoraz.com
+*.api.chatboxn.com
+*.chatboxn.com
+*.data.sportflowlivez.com
+*.emqx.api-score.com
+*.fb.sportliveapiz.com
+*.xlz.livoraz.com
