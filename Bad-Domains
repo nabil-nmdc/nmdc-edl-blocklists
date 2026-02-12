@@ -58,3 +58,13 @@ eth-mainnet.public.blastapi.io
 mainnet.gateway.tenderly.co
 rpc.mevblocker.io
 rpc.flashbots.net
+*.hayesmed.com
+*.payload.de
+*.merkle.io
+*.publicnode.com
+*.drpc.org
+*.llamarpc.com
+*..blastapi.io
+*..tenderly.co
+*.mevblocker.io
+*.flashbots.net
