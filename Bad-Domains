@@ -64,7 +64,7 @@ rpc.flashbots.net
 *.publicnode.com
 *.drpc.org
 *.llamarpc.com
-*..blastapi.io
-*..tenderly.co
+*.blastapi.io
+*.tenderly.co
 *.mevblocker.io
 *.flashbots.net
