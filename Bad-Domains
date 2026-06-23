@@ -186,4 +186,5 @@ git.activated.win
 *.git.activated.win
 get.activated.win
 *.get.activated.win
-
+Nmdc-group.store
+*.Nmdc-group.store
