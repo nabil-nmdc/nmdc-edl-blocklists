@@ -196,8 +196,6 @@ nmdc-group.in
 *.nmdc-group.in
 fingerprint-verification.info
 *.fingerprint-verification.info
-jsdelivr.net
-*.jsdelivr.net
 amurz.com
 *.amurz.com
 vegasgolfdeals.com
